@@ -9,6 +9,7 @@
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/241212017-ui/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/241212017-ui/Leetcode/tree/master/3620-network-recovery-pathways) |
 | [1301-number-of-paths-with-max-score](https://github.com/241212017-ui/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
+| [0300-longest-increasing-subsequence](https://github.com/241212017-ui/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -39,11 +40,13 @@
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/241212017-ui/Leetcode/tree/master/3620-network-recovery-pathways) |
+| [0300-longest-increasing-subsequence](https://github.com/241212017-ui/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/241212017-ui/Leetcode/tree/master/3620-network-recovery-pathways) |
 | [1301-number-of-paths-with-max-score](https://github.com/241212017-ui/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
+| [0300-longest-increasing-subsequence](https://github.com/241212017-ui/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 ## Topological Sort
 |  |
 | ------- |
