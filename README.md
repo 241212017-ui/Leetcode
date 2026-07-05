@@ -10,6 +10,7 @@
 | [3620-network-recovery-pathways](https://github.com/241212017-ui/Leetcode/tree/master/3620-network-recovery-pathways) |
 | [1301-number-of-paths-with-max-score](https://github.com/241212017-ui/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [0300-longest-increasing-subsequence](https://github.com/241212017-ui/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/241212017-ui/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -47,6 +48,7 @@
 | [3620-network-recovery-pathways](https://github.com/241212017-ui/Leetcode/tree/master/3620-network-recovery-pathways) |
 | [1301-number-of-paths-with-max-score](https://github.com/241212017-ui/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [0300-longest-increasing-subsequence](https://github.com/241212017-ui/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/241212017-ui/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Topological Sort
 |  |
 | ------- |
@@ -59,4 +61,8 @@
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/241212017-ui/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Sorting
+|  |
+| ------- |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/241212017-ui/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 <!---LeetCode Topics End-->
