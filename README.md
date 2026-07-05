@@ -11,6 +11,7 @@
 | [1301-number-of-paths-with-max-score](https://github.com/241212017-ui/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [0300-longest-increasing-subsequence](https://github.com/241212017-ui/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/241212017-ui/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/241212017-ui/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -49,6 +50,7 @@
 | [1301-number-of-paths-with-max-score](https://github.com/241212017-ui/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [0300-longest-increasing-subsequence](https://github.com/241212017-ui/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/241212017-ui/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/241212017-ui/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Topological Sort
 |  |
 | ------- |
