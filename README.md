@@ -12,6 +12,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/241212017-ui/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/241212017-ui/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/241212017-ui/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/241212017-ui/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -51,6 +52,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/241212017-ui/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/241212017-ui/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/241212017-ui/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/241212017-ui/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Topological Sort
 |  |
 | ------- |
@@ -67,4 +69,8 @@
 |  |
 | ------- |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/241212017-ui/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/241212017-ui/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
