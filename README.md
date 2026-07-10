@@ -22,6 +22,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/241212017-ui/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/241212017-ui/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/241212017-ui/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [0015-3sum](https://github.com/241212017-ui/Leetcode/tree/master/0015-3sum) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -90,6 +91,7 @@
 | [1288-remove-covered-intervals](https://github.com/241212017-ui/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/241212017-ui/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/241212017-ui/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [0015-3sum](https://github.com/241212017-ui/Leetcode/tree/master/0015-3sum) |
 ## Greedy
 |  |
 | ------- |
@@ -121,6 +123,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/241212017-ui/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/241212017-ui/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/241212017-ui/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [0015-3sum](https://github.com/241212017-ui/Leetcode/tree/master/0015-3sum) |
 ## Bit Manipulation
 |  |
 | ------- |
