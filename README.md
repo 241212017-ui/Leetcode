@@ -19,6 +19,7 @@
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/241212017-ui/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/241212017-ui/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/241212017-ui/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/241212017-ui/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -114,6 +115,7 @@
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/241212017-ui/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/241212017-ui/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/241212017-ui/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/241212017-ui/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
