@@ -113,8 +113,13 @@
 | ------- |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/241212017-ui/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/241212017-ui/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/241212017-ui/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/241212017-ui/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Linked List
+|  |
+| ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/241212017-ui/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 <!---LeetCode Topics End-->
