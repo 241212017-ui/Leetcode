@@ -21,6 +21,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/241212017-ui/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/241212017-ui/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/241212017-ui/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/241212017-ui/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -88,6 +89,7 @@
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/241212017-ui/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1288-remove-covered-intervals](https://github.com/241212017-ui/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/241212017-ui/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/241212017-ui/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
 | ------- |
@@ -118,6 +120,7 @@
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/241212017-ui/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/241212017-ui/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/241212017-ui/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/241212017-ui/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Bit Manipulation
 |  |
 | ------- |
