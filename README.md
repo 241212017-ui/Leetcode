@@ -17,6 +17,7 @@
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/241212017-ui/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [1288-remove-covered-intervals](https://github.com/241212017-ui/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/241212017-ui/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/241212017-ui/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -29,6 +30,7 @@
 | [3620-network-recovery-pathways](https://github.com/241212017-ui/Leetcode/tree/master/3620-network-recovery-pathways) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/241212017-ui/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/241212017-ui/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/241212017-ui/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -50,6 +52,7 @@
 | [3620-network-recovery-pathways](https://github.com/241212017-ui/Leetcode/tree/master/3620-network-recovery-pathways) |
 | [0300-longest-increasing-subsequence](https://github.com/241212017-ui/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/241212017-ui/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/241212017-ui/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -61,6 +64,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/241212017-ui/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/241212017-ui/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/241212017-ui/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/241212017-ui/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Topological Sort
 |  |
 | ------- |
@@ -79,10 +83,12 @@
 | ------- |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/241212017-ui/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1288-remove-covered-intervals](https://github.com/241212017-ui/Leetcode/tree/master/1288-remove-covered-intervals) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/241212017-ui/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/241212017-ui/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/241212017-ui/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Math
 |  |
 | ------- |
@@ -100,4 +106,12 @@
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/241212017-ui/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Two Pointers
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/241212017-ui/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/241212017-ui/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->
