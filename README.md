@@ -117,6 +117,7 @@
 |  |
 | ------- |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/241212017-ui/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [0844-backspace-string-compare](https://github.com/241212017-ui/Leetcode/tree/master/0844-backspace-string-compare) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -138,6 +139,7 @@
 | [0016-3sum-closest](https://github.com/241212017-ui/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/241212017-ui/Leetcode/tree/master/0018-4sum) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/241212017-ui/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0844-backspace-string-compare](https://github.com/241212017-ui/Leetcode/tree/master/0844-backspace-string-compare) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -150,8 +152,13 @@
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/241212017-ui/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0844-backspace-string-compare](https://github.com/241212017-ui/Leetcode/tree/master/0844-backspace-string-compare) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/241212017-ui/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/241212017-ui/Leetcode/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
