@@ -25,6 +25,7 @@
 | [0015-3sum](https://github.com/241212017-ui/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/241212017-ui/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/241212017-ui/Leetcode/tree/master/0018-4sum) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/241212017-ui/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -100,11 +101,13 @@
 | [0015-3sum](https://github.com/241212017-ui/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/241212017-ui/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/241212017-ui/Leetcode/tree/master/0018-4sum) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/241212017-ui/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Greedy
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/241212017-ui/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/241212017-ui/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/241212017-ui/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Math
 |  |
 | ------- |
@@ -134,6 +137,7 @@
 | [0015-3sum](https://github.com/241212017-ui/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/241212017-ui/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/241212017-ui/Leetcode/tree/master/0018-4sum) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/241212017-ui/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -142,4 +146,12 @@
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/241212017-ui/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+## Stack
+|  |
+| ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/241212017-ui/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/241212017-ui/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 <!---LeetCode Topics End-->
