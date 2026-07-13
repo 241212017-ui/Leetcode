@@ -171,4 +171,8 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/241212017-ui/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/241212017-ui/Leetcode/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
