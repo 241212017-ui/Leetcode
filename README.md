@@ -5,7 +5,7 @@
 # LeetCode Topics
 ## Array
 |  |
-| ------- |
+| ------ |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/241212017-ui/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/241212017-ui/Leetcode/tree/master/3620-network-recovery-pathways) |
 | [1301-number-of-paths-with-max-score](https://github.com/241212017-ui/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
