@@ -28,6 +28,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/241212017-ui/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1331-rank-transform-of-an-array](https://github.com/241212017-ui/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/241212017-ui/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/241212017-ui/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -106,6 +107,7 @@
 | [0018-4sum](https://github.com/241212017-ui/Leetcode/tree/master/0018-4sum) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/241212017-ui/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1331-rank-transform-of-an-array](https://github.com/241212017-ui/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/241212017-ui/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -118,6 +120,7 @@
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/241212017-ui/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/241212017-ui/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/241212017-ui/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/241212017-ui/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -147,6 +150,7 @@
 | [0018-4sum](https://github.com/241212017-ui/Leetcode/tree/master/0018-4sum) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/241212017-ui/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/241212017-ui/Leetcode/tree/master/0844-backspace-string-compare) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/241212017-ui/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -168,6 +172,7 @@
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/241212017-ui/Leetcode/tree/master/0844-backspace-string-compare) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/241212017-ui/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sliding Window
 |  |
 | ------- |
@@ -180,4 +185,5 @@
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/241212017-ui/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/241212017-ui/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
