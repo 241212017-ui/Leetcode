@@ -131,6 +131,7 @@
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/241212017-ui/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [0844-backspace-string-compare](https://github.com/241212017-ui/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/241212017-ui/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/241212017-ui/Leetcode/tree/master/0076-minimum-window-substring) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -145,6 +146,7 @@
 | [3312-sorted-gcd-pair-queries](https://github.com/241212017-ui/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [0904-fruit-into-baskets](https://github.com/241212017-ui/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/241212017-ui/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/241212017-ui/Leetcode/tree/master/0076-minimum-window-substring) |
 ## Two Pointers
 |  |
 | ------- |
@@ -188,6 +190,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/241212017-ui/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/241212017-ui/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/241212017-ui/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/241212017-ui/Leetcode/tree/master/0076-minimum-window-substring) |
 ## Enumeration
 |  |
 | ------- |
