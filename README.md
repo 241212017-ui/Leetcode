@@ -30,6 +30,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/241212017-ui/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/241212017-ui/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3312-sorted-gcd-pair-queries](https://github.com/241212017-ui/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [0904-fruit-into-baskets](https://github.com/241212017-ui/Leetcode/tree/master/0904-fruit-into-baskets) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -141,6 +142,7 @@
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/241212017-ui/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [1331-rank-transform-of-an-array](https://github.com/241212017-ui/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/241212017-ui/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [0904-fruit-into-baskets](https://github.com/241212017-ui/Leetcode/tree/master/0904-fruit-into-baskets) |
 ## Two Pointers
 |  |
 | ------- |
@@ -182,6 +184,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/241212017-ui/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0904-fruit-into-baskets](https://github.com/241212017-ui/Leetcode/tree/master/0904-fruit-into-baskets) |
 ## Enumeration
 |  |
 | ------- |
