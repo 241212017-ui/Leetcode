@@ -134,6 +134,7 @@
 | [0844-backspace-string-compare](https://github.com/241212017-ui/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/241212017-ui/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/241212017-ui/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0567-permutation-in-string](https://github.com/241212017-ui/Leetcode/tree/master/0567-permutation-in-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -149,6 +150,7 @@
 | [0904-fruit-into-baskets](https://github.com/241212017-ui/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/241212017-ui/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/241212017-ui/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0567-permutation-in-string](https://github.com/241212017-ui/Leetcode/tree/master/0567-permutation-in-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -164,6 +166,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/241212017-ui/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/241212017-ui/Leetcode/tree/master/0844-backspace-string-compare) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/241212017-ui/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [0567-permutation-in-string](https://github.com/241212017-ui/Leetcode/tree/master/0567-permutation-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -193,6 +196,7 @@
 | [0904-fruit-into-baskets](https://github.com/241212017-ui/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/241212017-ui/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/241212017-ui/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0567-permutation-in-string](https://github.com/241212017-ui/Leetcode/tree/master/0567-permutation-in-string) |
 ## Enumeration
 |  |
 | ------- |
