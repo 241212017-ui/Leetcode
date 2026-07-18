@@ -32,6 +32,7 @@
 | [3312-sorted-gcd-pair-queries](https://github.com/241212017-ui/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [0904-fruit-into-baskets](https://github.com/241212017-ui/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/241212017-ui/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [0287-find-the-duplicate-number](https://github.com/241212017-ui/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -72,6 +73,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/241212017-ui/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/241212017-ui/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/241212017-ui/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [0287-find-the-duplicate-number](https://github.com/241212017-ui/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -175,10 +177,12 @@
 | [0567-permutation-in-string](https://github.com/241212017-ui/Leetcode/tree/master/0567-permutation-in-string) |
 | [0141-linked-list-cycle](https://github.com/241212017-ui/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/241212017-ui/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/241212017-ui/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/241212017-ui/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [0287-find-the-duplicate-number](https://github.com/241212017-ui/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Linked List
 |  |
 | ------- |
