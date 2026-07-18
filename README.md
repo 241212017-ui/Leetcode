@@ -31,6 +31,7 @@
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/241212017-ui/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3312-sorted-gcd-pair-queries](https://github.com/241212017-ui/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [0904-fruit-into-baskets](https://github.com/241212017-ui/Leetcode/tree/master/0904-fruit-into-baskets) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/241212017-ui/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -125,6 +126,7 @@
 | [3658-gcd-of-odd-and-even-sums](https://github.com/241212017-ui/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/241212017-ui/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3312-sorted-gcd-pair-queries](https://github.com/241212017-ui/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/241212017-ui/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## String
 |  |
 | ------- |
@@ -201,6 +203,7 @@
 | [3658-gcd-of-odd-and-even-sums](https://github.com/241212017-ui/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/241212017-ui/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3312-sorted-gcd-pair-queries](https://github.com/241212017-ui/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/241212017-ui/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Combinatorics
 |  |
 | ------- |
