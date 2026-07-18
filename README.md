@@ -129,6 +129,7 @@
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/241212017-ui/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3312-sorted-gcd-pair-queries](https://github.com/241212017-ui/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/241212017-ui/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [0202-happy-number](https://github.com/241212017-ui/Leetcode/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
@@ -159,6 +160,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/241212017-ui/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0141-linked-list-cycle](https://github.com/241212017-ui/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/241212017-ui/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/241212017-ui/Leetcode/tree/master/0202-happy-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -178,6 +180,7 @@
 | [0141-linked-list-cycle](https://github.com/241212017-ui/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/241212017-ui/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0287-find-the-duplicate-number](https://github.com/241212017-ui/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0202-happy-number](https://github.com/241212017-ui/Leetcode/tree/master/0202-happy-number) |
 ## Bit Manipulation
 |  |
 | ------- |
