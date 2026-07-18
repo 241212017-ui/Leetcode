@@ -136,6 +136,7 @@
 | [0076-minimum-window-substring](https://github.com/241212017-ui/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0567-permutation-in-string](https://github.com/241212017-ui/Leetcode/tree/master/0567-permutation-in-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/241212017-ui/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/241212017-ui/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -153,6 +154,7 @@
 | [0076-minimum-window-substring](https://github.com/241212017-ui/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0567-permutation-in-string](https://github.com/241212017-ui/Leetcode/tree/master/0567-permutation-in-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/241212017-ui/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/241212017-ui/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 ## Two Pointers
 |  |
 | ------- |
@@ -200,6 +202,7 @@
 | [0076-minimum-window-substring](https://github.com/241212017-ui/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0567-permutation-in-string](https://github.com/241212017-ui/Leetcode/tree/master/0567-permutation-in-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/241212017-ui/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/241212017-ui/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 ## Enumeration
 |  |
 | ------- |
