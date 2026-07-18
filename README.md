@@ -156,6 +156,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/241212017-ui/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/241212017-ui/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0141-linked-list-cycle](https://github.com/241212017-ui/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/241212017-ui/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -173,6 +174,7 @@
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/241212017-ui/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [0567-permutation-in-string](https://github.com/241212017-ui/Leetcode/tree/master/0567-permutation-in-string) |
 | [0141-linked-list-cycle](https://github.com/241212017-ui/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/241212017-ui/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -182,6 +184,7 @@
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/241212017-ui/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/241212017-ui/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/241212017-ui/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 ## Stack
 |  |
 | ------- |
