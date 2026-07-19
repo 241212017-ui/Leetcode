@@ -33,6 +33,7 @@
 | [0904-fruit-into-baskets](https://github.com/241212017-ui/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/241212017-ui/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [0287-find-the-duplicate-number](https://github.com/241212017-ui/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0053-maximum-subarray](https://github.com/241212017-ui/Leetcode/tree/master/0053-maximum-subarray) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -86,6 +87,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/241212017-ui/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/241212017-ui/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/241212017-ui/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [0053-maximum-subarray](https://github.com/241212017-ui/Leetcode/tree/master/0053-maximum-subarray) |
 ## Topological Sort
 |  |
 | ------- |
@@ -244,4 +246,8 @@
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/241212017-ui/Leetcode/tree/master/0143-reorder-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/241212017-ui/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
