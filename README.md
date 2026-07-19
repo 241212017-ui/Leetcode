@@ -34,6 +34,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/241212017-ui/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [0287-find-the-duplicate-number](https://github.com/241212017-ui/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0053-maximum-subarray](https://github.com/241212017-ui/Leetcode/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/241212017-ui/Leetcode/tree/master/0152-maximum-product-subarray) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -88,6 +89,7 @@
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/241212017-ui/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/241212017-ui/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [0053-maximum-subarray](https://github.com/241212017-ui/Leetcode/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/241212017-ui/Leetcode/tree/master/0152-maximum-product-subarray) |
 ## Topological Sort
 |  |
 | ------- |
