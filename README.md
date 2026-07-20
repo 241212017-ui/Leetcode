@@ -42,6 +42,7 @@
 | [0724-find-pivot-index](https://github.com/241212017-ui/Leetcode/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/241212017-ui/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0525-contiguous-array](https://github.com/241212017-ui/Leetcode/tree/master/0525-contiguous-array) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/241212017-ui/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -62,6 +63,7 @@
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/241212017-ui/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/241212017-ui/Leetcode/tree/master/3620-network-recovery-pathways) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/241212017-ui/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Matrix
 |  |
 | ------- |
@@ -83,6 +85,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/241212017-ui/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/241212017-ui/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [0287-find-the-duplicate-number](https://github.com/241212017-ui/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/241212017-ui/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -168,6 +171,7 @@
 | [0724-find-pivot-index](https://github.com/241212017-ui/Leetcode/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/241212017-ui/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0525-contiguous-array](https://github.com/241212017-ui/Leetcode/tree/master/0525-contiguous-array) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/241212017-ui/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -250,6 +254,7 @@
 | [0567-permutation-in-string](https://github.com/241212017-ui/Leetcode/tree/master/0567-permutation-in-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/241212017-ui/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/241212017-ui/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/241212017-ui/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Enumeration
 |  |
 | ------- |
@@ -282,8 +287,10 @@
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/241212017-ui/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/241212017-ui/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/241212017-ui/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/241212017-ui/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 <!---LeetCode Topics End-->
