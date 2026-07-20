@@ -47,6 +47,7 @@
 | [1260-shift-2d-grid](https://github.com/241212017-ui/Leetcode/tree/master/1260-shift-2d-grid) |
 | [0056-merge-intervals](https://github.com/241212017-ui/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/241212017-ui/Leetcode/tree/master/0057-insert-interval) |
+| [0986-interval-list-intersections](https://github.com/241212017-ui/Leetcode/tree/master/0986-interval-list-intersections) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -219,6 +220,7 @@
 | [0202-happy-number](https://github.com/241212017-ui/Leetcode/tree/master/0202-happy-number) |
 | [0876-middle-of-the-linked-list](https://github.com/241212017-ui/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0143-reorder-list](https://github.com/241212017-ui/Leetcode/tree/master/0143-reorder-list) |
+| [0986-interval-list-intersections](https://github.com/241212017-ui/Leetcode/tree/master/0986-interval-list-intersections) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -318,4 +320,8 @@
 |  |
 | ------- |
 | [0327-count-of-range-sum](https://github.com/241212017-ui/Leetcode/tree/master/0327-count-of-range-sum) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/241212017-ui/Leetcode/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
