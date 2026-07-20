@@ -38,6 +38,7 @@
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/241212017-ui/Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/241212017-ui/Leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/241212017-ui/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [0560-subarray-sum-equals-k](https://github.com/241212017-ui/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -160,6 +161,7 @@
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/241212017-ui/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/241212017-ui/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/241212017-ui/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [0560-subarray-sum-equals-k](https://github.com/241212017-ui/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -175,6 +177,7 @@
 | [0141-linked-list-cycle](https://github.com/241212017-ui/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/241212017-ui/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/241212017-ui/Leetcode/tree/master/0202-happy-number) |
+| [0560-subarray-sum-equals-k](https://github.com/241212017-ui/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
 | ------- |
