@@ -43,6 +43,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/241212017-ui/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0525-contiguous-array](https://github.com/241212017-ui/Leetcode/tree/master/0525-contiguous-array) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/241212017-ui/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0327-count-of-range-sum](https://github.com/241212017-ui/Leetcode/tree/master/0327-count-of-range-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -86,6 +87,7 @@
 | [3312-sorted-gcd-pair-queries](https://github.com/241212017-ui/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [0287-find-the-duplicate-number](https://github.com/241212017-ui/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/241212017-ui/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0327-count-of-range-sum](https://github.com/241212017-ui/Leetcode/tree/master/0327-count-of-range-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -283,6 +285,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/241212017-ui/Leetcode/tree/master/0053-maximum-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/241212017-ui/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [0327-count-of-range-sum](https://github.com/241212017-ui/Leetcode/tree/master/0327-count-of-range-sum) |
 ## Queue
 |  |
 | ------- |
@@ -293,4 +296,20 @@
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/241212017-ui/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/241212017-ui/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/241212017-ui/Leetcode/tree/master/0327-count-of-range-sum) |
+## Segment Tree
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/241212017-ui/Leetcode/tree/master/0327-count-of-range-sum) |
+## Merge Sort
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/241212017-ui/Leetcode/tree/master/0327-count-of-range-sum) |
+## Ordered Set
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/241212017-ui/Leetcode/tree/master/0327-count-of-range-sum) |
 <!---LeetCode Topics End-->
