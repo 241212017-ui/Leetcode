@@ -40,6 +40,7 @@
 | [0918-maximum-sum-circular-subarray](https://github.com/241212017-ui/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0560-subarray-sum-equals-k](https://github.com/241212017-ui/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/241212017-ui/Leetcode/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/241212017-ui/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -164,6 +165,7 @@
 | [3312-sorted-gcd-pair-queries](https://github.com/241212017-ui/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [0560-subarray-sum-equals-k](https://github.com/241212017-ui/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/241212017-ui/Leetcode/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/241212017-ui/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -180,6 +182,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/241212017-ui/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/241212017-ui/Leetcode/tree/master/0202-happy-number) |
 | [0560-subarray-sum-equals-k](https://github.com/241212017-ui/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/241212017-ui/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Two Pointers
 |  |
 | ------- |
