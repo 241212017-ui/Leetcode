@@ -45,6 +45,7 @@
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/241212017-ui/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0327-count-of-range-sum](https://github.com/241212017-ui/Leetcode/tree/master/0327-count-of-range-sum) |
 | [1260-shift-2d-grid](https://github.com/241212017-ui/Leetcode/tree/master/1260-shift-2d-grid) |
+| [0056-merge-intervals](https://github.com/241212017-ui/Leetcode/tree/master/0056-merge-intervals) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -135,6 +136,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/241212017-ui/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1331-rank-transform-of-an-array](https://github.com/241212017-ui/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/241212017-ui/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [0056-merge-intervals](https://github.com/241212017-ui/Leetcode/tree/master/0056-merge-intervals) |
 ## Greedy
 |  |
 | ------- |
