@@ -46,6 +46,7 @@
 | [0327-count-of-range-sum](https://github.com/241212017-ui/Leetcode/tree/master/0327-count-of-range-sum) |
 | [1260-shift-2d-grid](https://github.com/241212017-ui/Leetcode/tree/master/1260-shift-2d-grid) |
 | [0056-merge-intervals](https://github.com/241212017-ui/Leetcode/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/241212017-ui/Leetcode/tree/master/0057-insert-interval) |
 ## Breadth-First Search
 |  |
 | ------- |
