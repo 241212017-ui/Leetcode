@@ -41,6 +41,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/241212017-ui/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/241212017-ui/Leetcode/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/241212017-ui/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0525-contiguous-array](https://github.com/241212017-ui/Leetcode/tree/master/0525-contiguous-array) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -166,6 +167,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/241212017-ui/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/241212017-ui/Leetcode/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/241212017-ui/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0525-contiguous-array](https://github.com/241212017-ui/Leetcode/tree/master/0525-contiguous-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -183,6 +185,7 @@
 | [0202-happy-number](https://github.com/241212017-ui/Leetcode/tree/master/0202-happy-number) |
 | [0560-subarray-sum-equals-k](https://github.com/241212017-ui/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/241212017-ui/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0525-contiguous-array](https://github.com/241212017-ui/Leetcode/tree/master/0525-contiguous-array) |
 ## Two Pointers
 |  |
 | ------- |
