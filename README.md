@@ -39,6 +39,7 @@
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/241212017-ui/Leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/241212017-ui/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0560-subarray-sum-equals-k](https://github.com/241212017-ui/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/241212017-ui/Leetcode/tree/master/0724-find-pivot-index) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -162,6 +163,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/241212017-ui/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/241212017-ui/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [0560-subarray-sum-equals-k](https://github.com/241212017-ui/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/241212017-ui/Leetcode/tree/master/0724-find-pivot-index) |
 ## Hash Table
 |  |
 | ------- |
