@@ -169,6 +169,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/241212017-ui/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/241212017-ui/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [0316-remove-duplicate-letters](https://github.com/241212017-ui/Leetcode/tree/master/0316-remove-duplicate-letters) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/241212017-ui/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -269,6 +270,7 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/241212017-ui/Leetcode/tree/master/1291-sequential-digits) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/241212017-ui/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Number Theory
 |  |
 | ------- |
