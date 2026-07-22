@@ -48,6 +48,7 @@
 | [0056-merge-intervals](https://github.com/241212017-ui/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/241212017-ui/Leetcode/tree/master/0057-insert-interval) |
 | [0986-interval-list-intersections](https://github.com/241212017-ui/Leetcode/tree/master/0986-interval-list-intersections) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/241212017-ui/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -93,6 +94,7 @@
 | [0287-find-the-duplicate-number](https://github.com/241212017-ui/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/241212017-ui/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0327-count-of-range-sum](https://github.com/241212017-ui/Leetcode/tree/master/0327-count-of-range-sum) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/241212017-ui/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -170,6 +172,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/241212017-ui/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [0316-remove-duplicate-letters](https://github.com/241212017-ui/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/241212017-ui/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/241212017-ui/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -314,6 +317,7 @@
 |  |
 | ------- |
 | [0327-count-of-range-sum](https://github.com/241212017-ui/Leetcode/tree/master/0327-count-of-range-sum) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/241212017-ui/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Merge Sort
 |  |
 | ------- |
