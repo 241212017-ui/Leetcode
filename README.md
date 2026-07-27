@@ -51,6 +51,7 @@
 | [3501-maximize-active-section-with-trade-ii](https://github.com/241212017-ui/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/241212017-ui/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/241212017-ui/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/241212017-ui/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -72,6 +73,7 @@
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/241212017-ui/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/241212017-ui/Leetcode/tree/master/3620-network-recovery-pathways) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/241212017-ui/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/241212017-ui/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Matrix
 |  |
 | ------- |
@@ -144,6 +146,7 @@
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/241212017-ui/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [0056-merge-intervals](https://github.com/241212017-ui/Leetcode/tree/master/0056-merge-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/241212017-ui/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/241212017-ui/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Greedy
 |  |
 | ------- |
