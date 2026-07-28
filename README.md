@@ -147,6 +147,7 @@
 | [0056-merge-intervals](https://github.com/241212017-ui/Leetcode/tree/master/0056-merge-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/241212017-ui/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/241212017-ui/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/241212017-ui/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Greedy
 |  |
 | ------- |
@@ -181,6 +182,7 @@
 | [0316-remove-duplicate-letters](https://github.com/241212017-ui/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/241212017-ui/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/241212017-ui/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/241212017-ui/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -340,4 +342,8 @@
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/241212017-ui/Leetcode/tree/master/0986-interval-list-intersections) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/241212017-ui/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
