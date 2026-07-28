@@ -183,6 +183,7 @@
 | [3499-maximize-active-section-with-trade-i](https://github.com/241212017-ui/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/241212017-ui/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/241212017-ui/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [0214-shortest-palindrome](https://github.com/241212017-ui/Leetcode/tree/master/0214-shortest-palindrome) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -346,4 +347,16 @@
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/241212017-ui/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/241212017-ui/Leetcode/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/241212017-ui/Leetcode/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/241212017-ui/Leetcode/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
