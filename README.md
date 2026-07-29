@@ -168,6 +168,7 @@
 | [0202-happy-number](https://github.com/241212017-ui/Leetcode/tree/master/0202-happy-number) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/241212017-ui/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/241212017-ui/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/241212017-ui/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## String
 |  |
 | ------- |
@@ -184,6 +185,7 @@
 | [3501-maximize-active-section-with-trade-ii](https://github.com/241212017-ui/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/241212017-ui/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [0214-shortest-palindrome](https://github.com/241212017-ui/Leetcode/tree/master/0214-shortest-palindrome) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/241212017-ui/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -213,6 +215,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/241212017-ui/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/241212017-ui/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0525-contiguous-array](https://github.com/241212017-ui/Leetcode/tree/master/0525-contiguous-array) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/241212017-ui/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -298,10 +301,12 @@
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/241212017-ui/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/241212017-ui/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Counting
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/241212017-ui/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/241212017-ui/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Recursion
 |  |
 | ------- |
