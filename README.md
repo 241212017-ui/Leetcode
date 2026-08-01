@@ -52,6 +52,7 @@
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/241212017-ui/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/241212017-ui/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/241212017-ui/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [0486-predict-the-winner](https://github.com/241212017-ui/Leetcode/tree/master/0486-predict-the-winner) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -116,6 +117,7 @@
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/241212017-ui/Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/241212017-ui/Leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/241212017-ui/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [0486-predict-the-winner](https://github.com/241212017-ui/Leetcode/tree/master/0486-predict-the-winner) |
 ## Topological Sort
 |  |
 | ------- |
@@ -171,6 +173,7 @@
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/241212017-ui/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/241212017-ui/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/241212017-ui/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [0486-predict-the-winner](https://github.com/241212017-ui/Leetcode/tree/master/0486-predict-the-winner) |
 ## String
 |  |
 | ------- |
@@ -316,6 +319,7 @@
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/241212017-ui/Leetcode/tree/master/0143-reorder-list) |
+| [0486-predict-the-winner](https://github.com/241212017-ui/Leetcode/tree/master/0486-predict-the-winner) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -369,4 +373,8 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/241212017-ui/Leetcode/tree/master/0214-shortest-palindrome) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/241212017-ui/Leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
