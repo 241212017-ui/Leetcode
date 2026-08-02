@@ -53,6 +53,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/241212017-ui/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/241212017-ui/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [0486-predict-the-winner](https://github.com/241212017-ui/Leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/241212017-ui/Leetcode/tree/master/0877-stone-game) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -118,6 +119,7 @@
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/241212017-ui/Leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/241212017-ui/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0486-predict-the-winner](https://github.com/241212017-ui/Leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/241212017-ui/Leetcode/tree/master/0877-stone-game) |
 ## Topological Sort
 |  |
 | ------- |
@@ -174,6 +176,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/241212017-ui/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/241212017-ui/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [0486-predict-the-winner](https://github.com/241212017-ui/Leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/241212017-ui/Leetcode/tree/master/0877-stone-game) |
 ## String
 |  |
 | ------- |
@@ -377,4 +380,5 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/241212017-ui/Leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/241212017-ui/Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
