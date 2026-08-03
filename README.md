@@ -389,8 +389,10 @@
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/241212017-ui/Leetcode/tree/master/1406-stone-game-iii) |
+| [0486-predict-the-winner](https://github.com/241212017-ui/Leetcode/tree/master/0486-predict-the-winner) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/241212017-ui/Leetcode/tree/master/1406-stone-game-iii) |
+| [0486-predict-the-winner](https://github.com/241212017-ui/Leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
