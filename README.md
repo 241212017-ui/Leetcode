@@ -169,6 +169,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/241212017-ui/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [0316-remove-duplicate-letters](https://github.com/241212017-ui/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/241212017-ui/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/241212017-ui/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Math
 |  |
 | ------- |
@@ -186,6 +187,7 @@
 | [0877-stone-game](https://github.com/241212017-ui/Leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/241212017-ui/Leetcode/tree/master/1406-stone-game-iii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/241212017-ui/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/241212017-ui/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## String
 |  |
 | ------- |
@@ -204,6 +206,7 @@
 | [0214-shortest-palindrome](https://github.com/241212017-ui/Leetcode/tree/master/0214-shortest-palindrome) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/241212017-ui/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/241212017-ui/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/241212017-ui/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -318,6 +321,7 @@
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/241212017-ui/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3312-sorted-gcd-pair-queries](https://github.com/241212017-ui/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/241212017-ui/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/241212017-ui/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Combinatorics
 |  |
 | ------- |
@@ -403,4 +407,8 @@
 | ------- |
 | [1406-stone-game-iii](https://github.com/241212017-ui/Leetcode/tree/master/1406-stone-game-iii) |
 | [0486-predict-the-winner](https://github.com/241212017-ui/Leetcode/tree/master/0486-predict-the-winner) |
+## Backtracking
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/241212017-ui/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->
