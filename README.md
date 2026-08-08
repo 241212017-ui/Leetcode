@@ -125,6 +125,7 @@
 | [0486-predict-the-winner](https://github.com/241212017-ui/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/241212017-ui/Leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/241212017-ui/Leetcode/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/241212017-ui/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Topological Sort
 |  |
 | ------- |
@@ -170,6 +171,7 @@
 | [0316-remove-duplicate-letters](https://github.com/241212017-ui/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/241212017-ui/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/241212017-ui/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/241212017-ui/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Math
 |  |
 | ------- |
@@ -207,6 +209,7 @@
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/241212017-ui/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/241212017-ui/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/241212017-ui/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/241212017-ui/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -262,6 +265,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/241212017-ui/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0143-reorder-list](https://github.com/241212017-ui/Leetcode/tree/master/0143-reorder-list) |
 | [0986-interval-list-intersections](https://github.com/241212017-ui/Leetcode/tree/master/0986-interval-list-intersections) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/241212017-ui/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Bit Manipulation
 |  |
 | ------- |
