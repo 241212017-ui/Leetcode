@@ -57,6 +57,7 @@
 | [1406-stone-game-iii](https://github.com/241212017-ui/Leetcode/tree/master/1406-stone-game-iii) |
 | [3731-find-missing-elements](https://github.com/241212017-ui/Leetcode/tree/master/3731-find-missing-elements) |
 | [1140-stone-game-ii](https://github.com/241212017-ui/Leetcode/tree/master/1140-stone-game-ii) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/241212017-ui/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -248,6 +249,7 @@
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/241212017-ui/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/241212017-ui/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/241212017-ui/Leetcode/tree/master/3731-find-missing-elements) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/241212017-ui/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Two Pointers
 |  |
 | ------- |
@@ -317,6 +319,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/241212017-ui/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/241212017-ui/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/241212017-ui/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/241212017-ui/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Enumeration
 |  |
 | ------- |
