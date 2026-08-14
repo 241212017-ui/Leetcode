@@ -218,6 +218,7 @@
 | [3348-smallest-divisible-digit-product-ii](https://github.com/241212017-ui/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/241212017-ui/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/241212017-ui/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/241212017-ui/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -252,6 +253,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/241212017-ui/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/241212017-ui/Leetcode/tree/master/3731-find-missing-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/241212017-ui/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/241212017-ui/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -322,6 +324,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/241212017-ui/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/241212017-ui/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/241212017-ui/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/241212017-ui/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Enumeration
 |  |
 | ------- |
