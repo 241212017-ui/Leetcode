@@ -59,6 +59,7 @@
 | [1140-stone-game-ii](https://github.com/241212017-ui/Leetcode/tree/master/1140-stone-game-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/241212017-ui/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/241212017-ui/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2029-stone-game-ix](https://github.com/241212017-ui/Leetcode/tree/master/2029-stone-game-ix) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -177,6 +178,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/241212017-ui/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/241212017-ui/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/241212017-ui/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [2029-stone-game-ix](https://github.com/241212017-ui/Leetcode/tree/master/2029-stone-game-ix) |
 ## Math
 |  |
 | ------- |
@@ -197,6 +199,7 @@
 | [3348-smallest-divisible-digit-product-ii](https://github.com/241212017-ui/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [1140-stone-game-ii](https://github.com/241212017-ui/Leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/241212017-ui/Leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/241212017-ui/Leetcode/tree/master/2029-stone-game-ix) |
 ## String
 |  |
 | ------- |
@@ -351,6 +354,7 @@
 | [3312-sorted-gcd-pair-queries](https://github.com/241212017-ui/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/241212017-ui/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/241212017-ui/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [2029-stone-game-ix](https://github.com/241212017-ui/Leetcode/tree/master/2029-stone-game-ix) |
 ## Recursion
 |  |
 | ------- |
@@ -419,6 +423,7 @@
 | [1406-stone-game-iii](https://github.com/241212017-ui/Leetcode/tree/master/1406-stone-game-iii) |
 | [1140-stone-game-ii](https://github.com/241212017-ui/Leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/241212017-ui/Leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/241212017-ui/Leetcode/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
@@ -426,6 +431,7 @@
 | [0486-predict-the-winner](https://github.com/241212017-ui/Leetcode/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/241212017-ui/Leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/241212017-ui/Leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/241212017-ui/Leetcode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
@@ -433,6 +439,7 @@
 | [0486-predict-the-winner](https://github.com/241212017-ui/Leetcode/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/241212017-ui/Leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/241212017-ui/Leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/241212017-ui/Leetcode/tree/master/2029-stone-game-ix) |
 ## Backtracking
 |  |
 | ------- |
@@ -441,6 +448,7 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/241212017-ui/Leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/241212017-ui/Leetcode/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
