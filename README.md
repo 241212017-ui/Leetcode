@@ -60,6 +60,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/241212017-ui/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/241212017-ui/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2029-stone-game-ix](https://github.com/241212017-ui/Leetcode/tree/master/2029-stone-game-ix) |
+| [1563-stone-game-v](https://github.com/241212017-ui/Leetcode/tree/master/1563-stone-game-v) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -132,6 +133,7 @@
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/241212017-ui/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [1140-stone-game-ii](https://github.com/241212017-ui/Leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/241212017-ui/Leetcode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/241212017-ui/Leetcode/tree/master/1563-stone-game-v) |
 ## Topological Sort
 |  |
 | ------- |
@@ -200,6 +202,7 @@
 | [1140-stone-game-ii](https://github.com/241212017-ui/Leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/241212017-ui/Leetcode/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/241212017-ui/Leetcode/tree/master/2029-stone-game-ix) |
+| [1563-stone-game-v](https://github.com/241212017-ui/Leetcode/tree/master/1563-stone-game-v) |
 ## String
 |  |
 | ------- |
@@ -424,6 +427,7 @@
 | [1140-stone-game-ii](https://github.com/241212017-ui/Leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/241212017-ui/Leetcode/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/241212017-ui/Leetcode/tree/master/2029-stone-game-ix) |
+| [1563-stone-game-v](https://github.com/241212017-ui/Leetcode/tree/master/1563-stone-game-v) |
 ## Minimax
 |  |
 | ------- |
