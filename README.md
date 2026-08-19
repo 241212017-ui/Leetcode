@@ -61,6 +61,7 @@
 | [2213-longest-substring-of-one-repeating-character](https://github.com/241212017-ui/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2029-stone-game-ix](https://github.com/241212017-ui/Leetcode/tree/master/2029-stone-game-ix) |
 | [1563-stone-game-v](https://github.com/241212017-ui/Leetcode/tree/master/1563-stone-game-v) |
+| [1386-cinema-seat-allocation](https://github.com/241212017-ui/Leetcode/tree/master/1386-cinema-seat-allocation) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -181,6 +182,7 @@
 | [3348-smallest-divisible-digit-product-ii](https://github.com/241212017-ui/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/241212017-ui/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [2029-stone-game-ix](https://github.com/241212017-ui/Leetcode/tree/master/2029-stone-game-ix) |
+| [1386-cinema-seat-allocation](https://github.com/241212017-ui/Leetcode/tree/master/1386-cinema-seat-allocation) |
 ## Math
 |  |
 | ------- |
@@ -260,6 +262,7 @@
 | [3731-find-missing-elements](https://github.com/241212017-ui/Leetcode/tree/master/3731-find-missing-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/241212017-ui/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/241212017-ui/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [1386-cinema-seat-allocation](https://github.com/241212017-ui/Leetcode/tree/master/1386-cinema-seat-allocation) |
 ## Two Pointers
 |  |
 | ------- |
@@ -290,6 +293,7 @@
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/241212017-ui/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [0287-find-the-duplicate-number](https://github.com/241212017-ui/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/241212017-ui/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [1386-cinema-seat-allocation](https://github.com/241212017-ui/Leetcode/tree/master/1386-cinema-seat-allocation) |
 ## Linked List
 |  |
 | ------- |
