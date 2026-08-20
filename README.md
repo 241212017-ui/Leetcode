@@ -62,6 +62,7 @@
 | [2029-stone-game-ix](https://github.com/241212017-ui/Leetcode/tree/master/2029-stone-game-ix) |
 | [1563-stone-game-v](https://github.com/241212017-ui/Leetcode/tree/master/1563-stone-game-v) |
 | [1386-cinema-seat-allocation](https://github.com/241212017-ui/Leetcode/tree/master/1386-cinema-seat-allocation) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/241212017-ui/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -322,6 +323,7 @@
 | [0844-backspace-string-compare](https://github.com/241212017-ui/Leetcode/tree/master/0844-backspace-string-compare) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/241212017-ui/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [1260-shift-2d-grid](https://github.com/241212017-ui/Leetcode/tree/master/1260-shift-2d-grid) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/241212017-ui/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Sliding Window
 |  |
 | ------- |
