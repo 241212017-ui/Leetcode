@@ -63,6 +63,7 @@
 | [1563-stone-game-v](https://github.com/241212017-ui/Leetcode/tree/master/1563-stone-game-v) |
 | [1386-cinema-seat-allocation](https://github.com/241212017-ui/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/241212017-ui/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/241212017-ui/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -112,6 +113,7 @@
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/241212017-ui/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0327-count-of-range-sum](https://github.com/241212017-ui/Leetcode/tree/master/0327-count-of-range-sum) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/241212017-ui/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/241212017-ui/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -206,6 +208,7 @@
 | [1510-stone-game-iv](https://github.com/241212017-ui/Leetcode/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/241212017-ui/Leetcode/tree/master/2029-stone-game-ix) |
 | [1563-stone-game-v](https://github.com/241212017-ui/Leetcode/tree/master/1563-stone-game-v) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/241212017-ui/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## String
 |  |
 | ------- |
@@ -295,6 +298,7 @@
 | [0287-find-the-duplicate-number](https://github.com/241212017-ui/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/241212017-ui/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [1386-cinema-seat-allocation](https://github.com/241212017-ui/Leetcode/tree/master/1386-cinema-seat-allocation) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/241212017-ui/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Linked List
 |  |
 | ------- |
@@ -352,11 +356,13 @@
 | [3312-sorted-gcd-pair-queries](https://github.com/241212017-ui/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/241212017-ui/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/241212017-ui/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/241212017-ui/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Combinatorics
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/241212017-ui/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/241212017-ui/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/241212017-ui/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Counting
 |  |
 | ------- |
