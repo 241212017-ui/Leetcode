@@ -64,6 +64,7 @@
 | [1386-cinema-seat-allocation](https://github.com/241212017-ui/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/241212017-ui/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/241212017-ui/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [1872-stone-game-viii](https://github.com/241212017-ui/Leetcode/tree/master/1872-stone-game-viii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -138,6 +139,7 @@
 | [1140-stone-game-ii](https://github.com/241212017-ui/Leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/241212017-ui/Leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/241212017-ui/Leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/241212017-ui/Leetcode/tree/master/1872-stone-game-viii) |
 ## Topological Sort
 |  |
 | ------- |
@@ -210,6 +212,7 @@
 | [1563-stone-game-v](https://github.com/241212017-ui/Leetcode/tree/master/1563-stone-game-v) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/241212017-ui/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/241212017-ui/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [1872-stone-game-viii](https://github.com/241212017-ui/Leetcode/tree/master/1872-stone-game-viii) |
 ## String
 |  |
 | ------- |
@@ -244,6 +247,7 @@
 | [0525-contiguous-array](https://github.com/241212017-ui/Leetcode/tree/master/0525-contiguous-array) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/241212017-ui/Leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1140-stone-game-ii](https://github.com/241212017-ui/Leetcode/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/241212017-ui/Leetcode/tree/master/1872-stone-game-viii) |
 ## Hash Table
 |  |
 | ------- |
@@ -441,6 +445,7 @@
 | [1510-stone-game-iv](https://github.com/241212017-ui/Leetcode/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/241212017-ui/Leetcode/tree/master/2029-stone-game-ix) |
 | [1563-stone-game-v](https://github.com/241212017-ui/Leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/241212017-ui/Leetcode/tree/master/1872-stone-game-viii) |
 ## Minimax
 |  |
 | ------- |
@@ -449,6 +454,7 @@
 | [1140-stone-game-ii](https://github.com/241212017-ui/Leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/241212017-ui/Leetcode/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/241212017-ui/Leetcode/tree/master/2029-stone-game-ix) |
+| [1872-stone-game-viii](https://github.com/241212017-ui/Leetcode/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
 | ------- |
@@ -457,6 +463,7 @@
 | [1140-stone-game-ii](https://github.com/241212017-ui/Leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/241212017-ui/Leetcode/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/241212017-ui/Leetcode/tree/master/2029-stone-game-ix) |
+| [1872-stone-game-viii](https://github.com/241212017-ui/Leetcode/tree/master/1872-stone-game-viii) |
 ## Backtracking
 |  |
 | ------- |
