@@ -189,6 +189,7 @@
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/241212017-ui/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [2029-stone-game-ix](https://github.com/241212017-ui/Leetcode/tree/master/2029-stone-game-ix) |
 | [1386-cinema-seat-allocation](https://github.com/241212017-ui/Leetcode/tree/master/1386-cinema-seat-allocation) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/241212017-ui/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Math
 |  |
 | ------- |
@@ -237,6 +238,7 @@
 | [2213-longest-substring-of-one-repeating-character](https://github.com/241212017-ui/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/241212017-ui/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/241212017-ui/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/241212017-ui/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -275,6 +277,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/241212017-ui/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [1386-cinema-seat-allocation](https://github.com/241212017-ui/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/241212017-ui/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/241212017-ui/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Two Pointers
 |  |
 | ------- |
@@ -357,6 +360,7 @@
 | [3499-maximize-active-section-with-trade-i](https://github.com/241212017-ui/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/241212017-ui/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/241212017-ui/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/241212017-ui/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Number Theory
 |  |
 | ------- |
@@ -379,6 +383,7 @@
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/241212017-ui/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/241212017-ui/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [2029-stone-game-ix](https://github.com/241212017-ui/Leetcode/tree/master/2029-stone-game-ix) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/241212017-ui/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Recursion
 |  |
 | ------- |
