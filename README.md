@@ -67,6 +67,7 @@
 | [1872-stone-game-viii](https://github.com/241212017-ui/Leetcode/tree/master/1872-stone-game-viii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/241212017-ui/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/241212017-ui/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/241212017-ui/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -193,6 +194,7 @@
 | [2029-stone-game-ix](https://github.com/241212017-ui/Leetcode/tree/master/2029-stone-game-ix) |
 | [1386-cinema-seat-allocation](https://github.com/241212017-ui/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/241212017-ui/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/241212017-ui/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Math
 |  |
 | ------- |
