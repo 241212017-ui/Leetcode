@@ -325,6 +325,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/241212017-ui/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/241212017-ui/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0143-reorder-list](https://github.com/241212017-ui/Leetcode/tree/master/0143-reorder-list) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/241212017-ui/Leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Stack
 |  |
 | ------- |
