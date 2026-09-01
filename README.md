@@ -68,6 +68,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/241212017-ui/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/241212017-ui/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/241212017-ui/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/241212017-ui/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -75,6 +76,7 @@
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/241212017-ui/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/241212017-ui/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/241212017-ui/Leetcode/tree/master/3310-remove-methods-from-project) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/241212017-ui/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
 |  |
 | ------- |
@@ -98,6 +100,7 @@
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/241212017-ui/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/241212017-ui/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1260-shift-2d-grid](https://github.com/241212017-ui/Leetcode/tree/master/1260-shift-2d-grid) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/241212017-ui/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Shortest Path
 |  |
 | ------- |
@@ -284,6 +287,7 @@
 | [1386-cinema-seat-allocation](https://github.com/241212017-ui/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/241212017-ui/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/241212017-ui/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/241212017-ui/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Two Pointers
 |  |
 | ------- |
@@ -317,6 +321,7 @@
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/241212017-ui/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [1386-cinema-seat-allocation](https://github.com/241212017-ui/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/241212017-ui/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/241212017-ui/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Linked List
 |  |
 | ------- |
