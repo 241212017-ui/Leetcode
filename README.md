@@ -70,6 +70,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/241212017-ui/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/241212017-ui/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3875-construct-uniform-parity-array-i](https://github.com/241212017-ui/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/241212017-ui/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -225,6 +226,7 @@
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/241212017-ui/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [1872-stone-game-viii](https://github.com/241212017-ui/Leetcode/tree/master/1872-stone-game-viii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/241212017-ui/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/241212017-ui/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## String
 |  |
 | ------- |
