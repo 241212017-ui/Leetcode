@@ -150,6 +150,7 @@
 | [1510-stone-game-iv](https://github.com/241212017-ui/Leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/241212017-ui/Leetcode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/241212017-ui/Leetcode/tree/master/1872-stone-game-viii) |
+| [0115-distinct-subsequences](https://github.com/241212017-ui/Leetcode/tree/master/0115-distinct-subsequences) |
 ## Topological Sort
 |  |
 | ------- |
@@ -254,6 +255,7 @@
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/241212017-ui/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/241212017-ui/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/241212017-ui/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [0115-distinct-subsequences](https://github.com/241212017-ui/Leetcode/tree/master/0115-distinct-subsequences) |
 ## Prefix Sum
 |  |
 | ------- |
