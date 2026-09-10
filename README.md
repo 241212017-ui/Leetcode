@@ -75,6 +75,7 @@
 | [3904-smallest-stable-index-ii](https://github.com/241212017-ui/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 | [0001-two-sum](https://github.com/241212017-ui/Leetcode/tree/master/0001-two-sum) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/241212017-ui/Leetcode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
+| [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/241212017-ui/Leetcode/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 ## Breadth-First Search
 |  |
 | ------- |
