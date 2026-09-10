@@ -74,6 +74,7 @@
 | [3903-smallest-stable-index-i](https://github.com/241212017-ui/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/241212017-ui/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 | [0001-two-sum](https://github.com/241212017-ui/Leetcode/tree/master/0001-two-sum) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/241212017-ui/Leetcode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -340,6 +341,7 @@
 | [1386-cinema-seat-allocation](https://github.com/241212017-ui/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/241212017-ui/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/241212017-ui/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/241212017-ui/Leetcode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 ## Linked List
 |  |
 | ------- |
