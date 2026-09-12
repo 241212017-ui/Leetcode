@@ -77,6 +77,7 @@
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/241212017-ui/Leetcode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/241212017-ui/Leetcode/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3483-unique-3-digit-even-numbers](https://github.com/241212017-ui/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/241212017-ui/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -129,6 +130,7 @@
 | [0327-count-of-range-sum](https://github.com/241212017-ui/Leetcode/tree/master/0327-count-of-range-sum) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/241212017-ui/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/241212017-ui/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/241212017-ui/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -157,6 +159,7 @@
 | [0115-distinct-subsequences](https://github.com/241212017-ui/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/241212017-ui/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [0070-climbing-stairs](https://github.com/241212017-ui/Leetcode/tree/master/0070-climbing-stairs) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/241212017-ui/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Topological Sort
 |  |
 | ------- |
@@ -195,6 +198,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/241212017-ui/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/241212017-ui/Leetcode/tree/master/3731-find-missing-elements) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/241212017-ui/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/241212017-ui/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Greedy
 |  |
 | ------- |
