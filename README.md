@@ -78,6 +78,7 @@
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/241212017-ui/Leetcode/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3483-unique-3-digit-even-numbers](https://github.com/241212017-ui/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/241212017-ui/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [0835-image-overlap](https://github.com/241212017-ui/Leetcode/tree/master/0835-image-overlap) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -110,6 +111,7 @@
 | [1301-number-of-paths-with-max-score](https://github.com/241212017-ui/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1260-shift-2d-grid](https://github.com/241212017-ui/Leetcode/tree/master/1260-shift-2d-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/241212017-ui/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [0835-image-overlap](https://github.com/241212017-ui/Leetcode/tree/master/0835-image-overlap) |
 ## Shortest Path
 |  |
 | ------- |
