@@ -162,6 +162,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/241212017-ui/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [0070-climbing-stairs](https://github.com/241212017-ui/Leetcode/tree/master/0070-climbing-stairs) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/241212017-ui/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/241212017-ui/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Topological Sort
 |  |
 | ------- |
@@ -216,6 +217,7 @@
 | [1386-cinema-seat-allocation](https://github.com/241212017-ui/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/241212017-ui/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/241212017-ui/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/241212017-ui/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Math
 |  |
 | ------- |
@@ -274,6 +276,7 @@
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/241212017-ui/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [0115-distinct-subsequences](https://github.com/241212017-ui/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/241212017-ui/Leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/241212017-ui/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -343,6 +346,7 @@
 | [0986-interval-list-intersections](https://github.com/241212017-ui/Leetcode/tree/master/0986-interval-list-intersections) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/241212017-ui/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/241212017-ui/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/241212017-ui/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Bit Manipulation
 |  |
 | ------- |
