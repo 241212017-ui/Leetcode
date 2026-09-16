@@ -163,6 +163,7 @@
 | [0070-climbing-stairs](https://github.com/241212017-ui/Leetcode/tree/master/0070-climbing-stairs) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/241212017-ui/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/241212017-ui/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/241212017-ui/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Topological Sort
 |  |
 | ------- |
@@ -249,6 +250,7 @@
 | [3871-count-commas-in-range-ii](https://github.com/241212017-ui/Leetcode/tree/master/3871-count-commas-in-range-ii) |
 | [0070-climbing-stairs](https://github.com/241212017-ui/Leetcode/tree/master/0070-climbing-stairs) |
 | [0836-rectangle-overlap](https://github.com/241212017-ui/Leetcode/tree/master/0836-rectangle-overlap) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/241212017-ui/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## String
 |  |
 | ------- |
@@ -292,6 +294,7 @@
 | [1872-stone-game-viii](https://github.com/241212017-ui/Leetcode/tree/master/1872-stone-game-viii) |
 | [3903-smallest-stable-index-i](https://github.com/241212017-ui/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/241212017-ui/Leetcode/tree/master/3904-smallest-stable-index-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/241212017-ui/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Hash Table
 |  |
 | ------- |
@@ -426,6 +429,7 @@
 | [3312-sorted-gcd-pair-queries](https://github.com/241212017-ui/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/241212017-ui/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/241212017-ui/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/241212017-ui/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Counting
 |  |
 | ------- |
